@@ -2,3 +2,7 @@ go to cmd
 go to file location of project
 Then write command python filename.py -i imagename.jpg(image extension)
 press 'esc' to exit from image window
+
+
+#I will be glad, if you use this repostitory 
+Anjali Gupta
