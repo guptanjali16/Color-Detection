@@ -1,0 +1,11 @@
+Color Detection is the process of detecting name of any color. 
+Simple isn't? Well for humans it's an extremely easy task but for computers it's not that straightforward. Human eyes and brain work together to translate light into color. 
+Light receptors that are present in our eyes transmit the signal to the brain. Our brain than recognizes the color. We'll be using somewhat same strategy to detect color in computers.
+
+In this project we built an application through which we can automatically get the name of the color by clicking on them. 
+For that we need a dataset that contains the color name and its values.
+
+We represent colors on a computers by color-space or color models which basically describes range of colors as tuples of numbers.
+Instead of going for each color, we’ll discuss most common color-space we use .i.e. RGB(Red, Green, Blue) and HSV (Hue, Saturation, Value).
+RGB basically describes color as a tuple of three components. Each component can take a value between 0 and 255, where the tuple (0, 0, 0) represents black and (255, 255, 255) represents white. 
+For example, if we were to show a pure blue pixel on-screen, then the R value would be 0, the G value would be 0, and the B value would be 255.
